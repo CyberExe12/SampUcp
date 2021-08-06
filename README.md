@@ -1,31 +1,42 @@
-# Samp-Ucp fitures
-how to make a ucp website into simple gta gammodes with basic php code
+# **SAMPVOICE**
+English | [Русский](https://github.com/CyberMor/sampvoice/blob/master/README.ru.md)
 
--simple login and register
+## Description
+---------------------------------
+**SAMPUCP** - is a website panel for creating ucp sample servers with gammodes.
 
--simple codegitner
+#### Version support
+----------------------------------
+* Client: SA:MP 0.3.7 (R1, R3)
+* Server: SA:MP 0.3.7 (R2)
 
--simple system php
+## Features
+---------------------------------
+* simple login and register
+* simple system php
+* use settings for user profile
+* can see online player
+* gammodes suport with jvrp
+* you can modify the ucp feature
+* setdonate player
+* change password and email
+* delay time for panel login user
 
--delay time for panel login user
+## Installation
+---------------------------------
+install using vps server and phpmyadmin
 
--delay time for log donate
 
--use settings for user profile
+##### Install for php
+---------------------------------
+1. In order to download the installer, head over to [the `releases` page](https://github.com/CyberExe12/Samp-Ucp/releases) 
+2. after successful download use vps/cpanel to install
+3. use putty for vps ubuntu and install phpmysql into your vps
+4. do a private player test using localhost if there is no vps/hosting
 
--change password
 
--change email
 
--setdonate player
-
--can see online player
-
--view profile 
-
--gammodes suport with jvrp
-
--indonesia subtitle gm
-
--you can modify the ucp feature
+#### Quick reference
+---------------------------------
+* You need to know, use a php installation that supports the php website version so that the system can run properly
 
