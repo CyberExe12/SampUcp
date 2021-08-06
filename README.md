@@ -2,6 +2,9 @@
 English | [Indonesia](https://github.com/CyberExe12/SampUcp/blob/main/README.id.md)
 
 ## Description
+
+* Use Password sampucp.rar check password here [`password`](https://forumsa-mp.blogspot.com/2021/08/sampucp.html)
+
 ---------------------------------
 **SAMPUCP** - is a website panel for creating ucp simple servers with gammodes.
 
