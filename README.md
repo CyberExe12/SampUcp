@@ -1,9 +1,9 @@
 # **SAMPUCP**
-English | [Indonesia](https://github.com/CyberMor/sampvoice/blob/master/README.ru.md)
+English | [Indonesia](https://github.com/CyberExe12/SampUcp/blob/main/README.id.md)
 
 ## Description
 ---------------------------------
-**SAMPUCP** - is a website panel for creating ucp sample servers with gammodes.
+**SAMPUCP** - is a website panel for creating ucp simple servers with gammodes.
 
 #### Version support
 ----------------------------------
@@ -39,4 +39,8 @@ install using vps server and phpmyadmin
 #### Quick reference
 ---------------------------------
 * You need to know, use a php installation that supports the php website version so that the system can run properly
+* subscribe get update to versi ucp [`subscribe`](https://www.youtube.com/channel/UCthZQqE6GbRpSZX99-NKCCw)
+* follow me get website tutorial samp [`website`](https://forumsa-mp.blogspot.com/)
+
+Thanks You.
 
