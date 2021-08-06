@@ -1,4 +1,4 @@
-# **SAMPVOICE**
+# **SAMPUCP**
 English | [Indonesia](https://github.com/CyberExe12/SampUcp/blob/main/README.id.md)
 
 ## Description
