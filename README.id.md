@@ -1,9 +1,9 @@
 # **SAMPVOICE**
-English | [Indonesia](https://github.com/CyberMor/sampvoice/blob/master/README.ru.md)
+English | [Indonesia](https://github.com/CyberExe12/SampUcp/blob/main/README.id.md)
 
 ## Description
 ---------------------------------
-**SAMPUCP** - adalah panel situs web untuk membuat server sampel ucp dengan gammodes.
+**SAMPUCP** - adalah panel situs web untuk membuat server panel ucp dengan gammodes.
 
 #### Version support
 ----------------------------------
