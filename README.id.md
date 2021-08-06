@@ -39,4 +39,8 @@ instal menggunakan server vps dan phpmyadmin
 #### Quick reference
 ---------------------------------
 * Perlu Anda ketahui, gunakan instalasi php yang mendukung versi website php agar sistem dapat berjalan dengan baik
+* subscribe get update to versi ucp [`subscribe`](https://www.youtube.com/channel/UCthZQqE6GbRpSZX99-NKCCw)
+* follow me get website tutorial samp [`website`](https://forumsa-mp.blogspot.com/)
+
+Thanks You.
 
