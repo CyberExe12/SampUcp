@@ -29,7 +29,7 @@ install using vps server and phpmyadmin
 
 ##### Install for php
 ---------------------------------
-1. In order to download the installer, head over to [the `releases` page](https://github.com/CyberExe12/Samp-Ucp/releases) 
+1. In order to download the installer, head over to [`releases`](https://github.com/CyberExe12/SampUcp/releases) 
 2. after successful download use vps/cpanel to install
 3. use putty for vps ubuntu and install phpmysql into your vps
 4. do a private player test using localhost if there is no vps/hosting
