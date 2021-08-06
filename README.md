@@ -1,4 +1,4 @@
-# **SAMPVOICE**
+# **SAMPUCP**
 English | [Indonesia](https://github.com/CyberMor/sampvoice/blob/master/README.ru.md)
 
 ## Description
