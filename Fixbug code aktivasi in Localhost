@@ -1,0 +1,29 @@
+Bahasa Indonesian : 
+
+Fix bug tidak mendapat code aktivasi email di Localhost. Tetapi memang akan sedikit delay untuk terkirim code aktivasi ke emailmu.
+
+`Disclaimer : `
+
+Jika kamu menggunakan gmail sebagai setting pengirim `code aktivasi` discript `mail.php` jangan menggunakan password seperti biasa yang kamu gunakan untuk login, karena google sudah `menonaktifkan 3d party apps`. Jadi yang harus dilakukan pergi ke : 
+- `Setting Google`
+- `Keamanan`
+- `Aktifkan 2aunt (jika sudah)`
+- Lalu pergi ke `Apps Password`
+- `Pilih Other`, nanti akan diberikan `Generate Password 16huruf. `
+- Tempel di `mail.php` bagian `password`
+- Done!
+
+Bagian `Fix Bug Code Aktivasi Localhost` tidak terkirim : 
+
+Kalo kamu tidak mendapat `code aktivasi email` yang dikirim ke alamatmu, kamu bisa cari file PHP, yang bernama `mail.php`, lalu coba `CTRL + F` dan search kata `isSMTP`. Lalu kamu bisa mengubahnya scriptnya sedikit seperti dibawah ini : 
+ 
+$mail = new PHPMailer(true);
+try{
+    $mail->SMTPDebug = 30;
+    $mail->`isSMTP`(); //ini diganti menjadi `isMail`
+    $mail->SMTPKeepAlive = true;
+
+Tetapi jika kamu sudah menggunakan cPanel, atau VPS, tidak perlu mengubahnya. Tetapi jika memang masih bermasalah kamu bisa menggantinya.
+
+Ini terjadi kepada saya juga, dan alhasil code aktivasi yang dikirimkan berhasil. Semoga bermanfaat dan salam sotot.
+
